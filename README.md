@@ -153,13 +153,13 @@ High-level flow:
 ## 📂 Project Repositories
 
 Main application:
-👉 https://github.com/YOUR_USERNAME/shoevault-app
+👉 https://github.com/LostInSpace2/shoevault-app
 
 Infrastructure:
-👉 https://github.com/YOUR_USERNAME/shoevault-infra
+👉 https://github.com/LostInSpace2/shoevault-infra
 
 Cluster resources:
-👉 https://github.com/YOUR_USERNAME/shoevault-cluster-resources
+👉 https://github.com/LostInSpace2/shoevault-cluster-resources
 
 ---
 
